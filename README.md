@@ -20,7 +20,7 @@ Built using:
 How to run:
 1. Run launcher.py
 2. Enter the corpus directory when prompted
-3. Forr 1st time running, select:
+3. For 1st time usage, select:
     1 → Build index
   then:
     2 → Search
