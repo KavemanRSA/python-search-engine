@@ -18,7 +18,7 @@ Built using:
 - Information retrieval concepts
 
 How to run:
-1. Ren launcher.py
+1. Run launcher.py
 2. Enter the corpus directory when prompted
 3. Forr 1st time running, select:
     1 → Build index
